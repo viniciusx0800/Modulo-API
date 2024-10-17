@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f6pvFXcBvCA=",
+  "dgSpecHash": "H0Woa+XOuGE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\marcos.oliveira\\projetos\\Modulo-API\\API\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\marcos.oliveira\\Projetos\\Modulo-API\\API\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marcos.oliveira\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\marcos.oliveira\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

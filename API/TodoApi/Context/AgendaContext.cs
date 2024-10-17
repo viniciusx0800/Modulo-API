@@ -17,7 +17,7 @@ namespace Context
 
        }
 
-       public DbSet<contato> Contatos( get; set; )
+       public DbSet<contato> Contatos( get set );
        
     }
 
